@@ -16,7 +16,7 @@ Installing:
 
 2. TKMsense Installation ISO
 
-	1. Download TKMsense_VX.X.X.iso file.
+	1. Download TKMsense_VX.X.X.iso file from the release tab above.
 	
 	2. Make install media from it.
 
