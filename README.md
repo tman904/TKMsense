@@ -8,7 +8,7 @@ Installing:
 
 1. Standalone
 	
-	1. Place profile in /etc/ on your OpenBSD.
+	1. Place profile in /etc/ on your OpenBSD. Note edit profile to reflect TKMsense version your running.
 
 	2. Place TKMsense_VX.X.X.sh into "/usr/sbin/" on your OpenBSD.
 
@@ -24,7 +24,7 @@ Installing:
 
 	Notes
 	
-	The only difference between this method and standalone is that both files are pre installed.
+	The only difference between this method and standalone is that both files are pre installed for the correct version.
 
 
 Uninstalling:
